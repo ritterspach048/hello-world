@@ -2,7 +2,7 @@
 **This is bold text!**
 *This is italicized text!*
 ~~I don't need this text~~
-**One word in this sentence is _extremely_ important!*
+**One word in this sentence is _extremely_ important!**
 ***ALL OF THIS IS IMPORTANT***
 
 ### This text is not a quote ###
